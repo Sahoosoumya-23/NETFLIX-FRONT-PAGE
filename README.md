@@ -2,4 +2,3 @@
 THIS WEBPAGE IS CREATED BY USING HTML AND CSS
 https://github.com/Sahoosoumya-23/NETFLIX-FRONT-PAGE.git
 SOUMYA RANJAN SAHOO
-soumya7653@gmail.com
